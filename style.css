@@ -1,0 +1,32 @@
+.blue {
+    color: blue;
+}
+
+#Title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    /*not working idk why*/
+    background-image: url('./Resources/Images/image_one.webp');
+}
+
+.title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushback {
+    background-color: mediumspringgreen;
+}
+
+.frameback {
+    background-color: lightcoral;
+}
+
+.paintback {
+    background-color: skyblue;
+}
